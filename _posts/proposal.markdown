@@ -11,7 +11,7 @@ Improving DeepWalk: Online Learning of Social Representations
 
 ## Project URL 
 
-[Project Home Page](http://dongyuli.github.io/parallel_deepwalk/)
+[Project Home Page](https://matthewchen7211.github.io/Improving_DeepWalk/)
 
 ## Project Description
 
