@@ -3,14 +3,6 @@ layout: page
 title: "Project Proposal"
 ---
 
-## Project Title 
-
-Improving DeepWalk: Online Learning of Social Representations
-
-## Project URL 
-
-[Project Home Page](https://matthewchen7211.github.io/Improving_DeepWalk/)
-
 ## Project Description
 
 I will be conducting research under the guidance of Professor Yiming Yang, who is professor of Language Technology Institute and Machine Learning Department at CMU, and her PhD student Yuexin Wu.

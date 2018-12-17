@@ -3,14 +3,6 @@ layout: page
 title: "Milestone Report"
 ---
 
-## Project Title 
-
-Improving DeepWalk: Online Learning of Social Representations
-
-## Project URL 
-
-[Project Home Page](https://matthewchen7211.github.io/Improving_DeepWalk/)
-
 ## Major Changes
 There are no major changes. There is one extension: besides DeepWalk, I have discovered later state-of-the-art graph representation/embedding algorithms such as node2vec that also use NLP algorithms (Skip Gram), so I plan to try replacing them by CBOW as well.
 
