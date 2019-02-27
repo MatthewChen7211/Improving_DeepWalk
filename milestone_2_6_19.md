@@ -1,6 +1,6 @@
 --- 
 layout: page 
-title: "Milestone Report 2/6/2019"
+title: "MR 2/6"
 ---
 
 ## Major Changes
