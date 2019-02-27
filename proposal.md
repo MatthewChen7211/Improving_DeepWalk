@@ -1,6 +1,6 @@
 --- 
 layout: page 
-title: "Project Proposal"
+title: "Proposal"
 ---
 
 ## Project Description
